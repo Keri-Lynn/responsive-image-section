@@ -70,8 +70,6 @@ a:hover {
 
 /* ---------------- =Media Query ---------------- */
 
-@media only screen and (min-width: 25em) {
-
 @media only screen and (min-width: 38em) {
 
   html {
@@ -84,10 +82,10 @@ a:hover {
     margin-bottom: 1.4rem;
   }
 
-section {
-  padding: 2rem 0;
-  text-align: center;
-}
+  section {
+    padding: 2rem 0;
+    text-align: center;
+  }
 
   .section-image {
     display: inline-block;
